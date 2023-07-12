@@ -1,5 +1,7 @@
 # Fallout Hacking Game
 
+[![CodeQL](https://github.com/Joel-Schaltenbrand/FalloutHackingGame/actions/workflows/codeql.yml/badge.svg?branch=master)](https://github.com/Joel-Schaltenbrand/FalloutHackingGame/actions/workflows/codeql.yml)
+
 Welcome to the Fallout Hacking Game! This is a text-based version of the popular hacking mini-game from the Fallout
 series. In this game, you will be tasked with guessing words to crack the code and gain access to the system.
 
