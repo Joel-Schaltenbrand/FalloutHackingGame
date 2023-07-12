@@ -7,7 +7,7 @@ series. In this game, you will be tasked with guessing words to crack the code a
 
 ## Installation
 
-To play the game, you need to have Maven and Java 17 installed on your machine. Follow these steps to set up the game:
+To play the game, you need to have Maven and Java 20 installed on your machine. Follow these steps to set up the game:
 
 1. Clone the repository to your local machine:
 
